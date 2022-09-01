@@ -67,7 +67,7 @@
 .main .main_content span{
 	color: white;
 	font-size: 20px;
-	marign: 0;
+	margin: 0;
 	padding: 0;
 	font-family: cosmic,sans-serif;
 	font-weight: lighter;
@@ -98,7 +98,7 @@
 
 .main .main_content .btn a:hover{
 	background-color: black;
-	color: organe;
+	color: orange;
 	border: 2px;
 	border-bottom:  1px solid orange;
 	transition: 0.5s;
@@ -149,7 +149,7 @@
 
 .product .product_container .item .item_content a:hover{
 	background-color: black;
-	color: organe;
+	color: orange ;
 	border: 2px;
 	border-bottom:  4px solid orange;
 	transition: 0.5s;
